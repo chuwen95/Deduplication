@@ -1,4 +1,4 @@
 # Deduplication
-Remove duplicate strings from multiple files and store in one result file
+Use memory for multiple text deduplication and save the result to a file
 
 For Windows OS only
